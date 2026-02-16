@@ -1,7 +1,7 @@
 # Andrei Nepomniashchii — Full-Stack Developer & AI-Powered Builder
 
 **Location:** Israel  
-**Languages:** Russian (native), English (fluent), Hebrew (basic)  
+**Languages:** English (fluent), Russian (native), Hebrew (basic)  
 **GitHub:** [github.com/anepom17](https://github.com/anepom17)  
 **Upwork:** [Web App Builder | MVPs, Telegram Bots & AI Integration](https://www.upwork.com)
 
