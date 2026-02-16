@@ -1,142 +1,150 @@
-# Andrei Nepomniashchii — IT Profile
+# Andrei Nepomniashchii — Full-Stack Developer & AI-Powered Builder
 
 **Location:** Israel  
 **Languages:** Russian (native), English (fluent), Hebrew (basic)  
-**GitHub:** github.com/anepom17  
-**Upwork:** Web App Builder | MVPs, Telegram Bots & AI Integration
+**GitHub:** [github.com/anepom17](https://github.com/anepom17)  
+**Upwork:** [Web App Builder | MVPs, Telegram Bots & AI Integration](https://www.upwork.com)
 
 ---
 
-## Позиционирование
+## About Me
 
-AI-powered builder — создаю работающие веб-приложения, ботов и автоматизации с помощью современных ИИ-инструментов. Сильная сторона — интеграция сервисов, быстрая доставка MVP от идеи до продакшена. 15+ лет опыта в product management дают понимание бизнес-логики и требований заказчика.
+AI-powered builder crafting production-ready web applications, bots, and automations using modern AI tooling. Core strengths include service integration and rapid MVP delivery — from idea to production. Backed by 17+ years of product management experience, bringing strong business logic understanding and client-oriented thinking to every project.
 
 ---
 
-## Навыки — разделение по глубине владения
+## Skills
 
-### 🟢 Работаю руками (понимаю код, пишу и отлаживаю сам)
+### Hands-On (write, debug, and maintain code independently)
 
-| Технология | Уровень | Контекст |
+| Technology | Level | Context |
 |---|---|---|
-| **Python** | Средний | Скрипты, автоматизация, Telegram-боты (aiogram), парсинг, работа с API |
-| **SQL / PostgreSQL** | Средний | Проектирование схем, запросы, миграции, RLS-политики |
-| **Linux / Ubuntu** | Средний | Настройка сервера, Nginx, systemd, SSH, безопасность, терминал |
-| **VPS / Cloud** | Средний | **DigitalOcean, Contabo** (личные сервера), деплой и администрирование |
-| **Git / GitHub** | Средний | **CI/CD (GitHub Actions), GitHub Pages**, ветвление, PR, работа с remote |
-| **LLM API Integration** | Средний | **Google AI Studio**, OpenAI API — прямая интеграция в код (без посредников) |
-| **Supabase** | Средний | Auth, Storage (private buckets, signed URLs, RLS), PostgreSQL |
-| **Telegram Bot API** | Средний | aiogram, FSM, webhooks, polling, разделение ролей (админ/клиент) |
-| **n8n** | Базовый | Workflow-автоматизация, webhook-триггеры |
+| **Python** | Intermediate | Scripts, automation, Telegram bots (aiogram), parsing, API integrations |
+| **SQL / PostgreSQL** | Intermediate | Schema design, queries, migrations, RLS policies |
+| **Linux / Ubuntu** | Intermediate | Server setup, Nginx, systemd, SSH, security, terminal |
+| **VPS / Cloud** | Intermediate | **DigitalOcean, Contabo** — deployment and server administration |
+| **Git / GitHub** | Intermediate | **CI/CD (GitHub Actions), GitHub Pages**, branching, PRs, remotes |
+| **LLM API Integration** | Intermediate | **Google AI Studio**, OpenAI API — direct code integration |
+| **Supabase** | Intermediate | Auth, Storage (private buckets, signed URLs, RLS), PostgreSQL |
+| **Telegram Bot API** | Intermediate | aiogram, FSM, webhooks, polling, role-based access (admin/client) |
+| **n8n** | Basic | Workflow automation, webhook triggers |
 
-### 🟡 Работаю через AI-инструменты (понимаю архитектуру, но код генерирует ИИ)
+### AI-Assisted (understand architecture; code generated with AI tools)
 
-| Технология | Контекст |
+| Technology | Context |
 |---|---|
-| **Next.js 14+ (App Router)** | Full-stack приложения, Server Components, Server Actions, API Routes |
-| **React / TypeScript** | Компоненты, хуки, типизация, состояние |
-| **Tailwind CSS** | Стилизация, адаптивная вёрстка, тёмная тема |
-| **shadcn/ui** | UI-компоненты: формы, диалоги, карточки, навигация |
-| **Flask** | Полноценные веб-приложения (Admin panels, Dashboards) |
-| **HTML / CSS / JavaScript** | Лендинги, статические страницы, index.html |
-| **Middleware / Auth flows** | Supabase Auth + Next.js middleware, Google OAuth |
-| **react-simple-maps** | Интерактивная карта мира с TopoJSON |
+| **Next.js 14+ (App Router)** | Full-stack apps, Server Components, Server Actions, API Routes |
+| **React / TypeScript** | Components, hooks, typing, state management |
+| **Tailwind CSS** | Styling, responsive layouts, dark mode |
+| **shadcn/ui** | UI components: forms, dialogs, cards, navigation |
+| **Flask** | Full-featured web apps (admin panels, dashboards) |
+| **HTML / CSS / JavaScript** | Landing pages, static sites |
+| **Middleware / Auth Flows** | Supabase Auth + Next.js middleware, Google OAuth |
+| **react-simple-maps** | Interactive world map with TopoJSON |
 
-### 🔵 AI / Dev инструменты
+### AI & Dev Tools
 
-| Инструмент | Уровень |
+| Tool | Details |
 |---|---|
-| **Cursor AI** | Основной инструмент разработки (Agent mode, Rules, .cursorrules) |
-| **LLM Models (2026)** |
-| **Google AI Studio** | Настройка системных промптов, тюнинг параметров, генерация API ключей |
-| **Replit** | Быстрое прототипирование, учебные проекты |
-| **Lovable** | Быстрый UI-прототипинг |
+| **Cursor AI** | Primary development environment (Agent mode, Rules, .cursorrules) |
+| **LLM Models (2026)** | Gemini 1.5 Pro / Flash, GPT-4o, Claude 3.5 Sonnet |
+| **Google AI Studio** | System prompts, parameter tuning, API key generation |
+| **Replit** | Rapid prototyping, learning projects |
+| **Lovable** | Quick UI prototyping |
 
 ---
 
-## Продакшен-проекты
+## Production Projects
 
-### Telegram Bot Ecosystem — Студия рисования (Израиль)
-**Стек:** Python, aiogram, Flask (Web Admin), PostgreSQL, HTML/CSS (Landing), Nginx, Ubuntu, DigitalOcean/Contabo.
+### Telegram Bot Ecosystem — Art Studio (Israel)
 
-Комплексное решение для автоматизации бизнеса, работающее в продакшене более 1 года.
+**Stack:** Python, aiogram, Flask (Web Admin), PostgreSQL, HTML/CSS (Landing), Nginx, Ubuntu, DigitalOcean/Contabo
 
-**Архитектура и функционал:**
-1.  **Экосистема Ботов (Python/aiogram):**
-    -   *Клиентский бот:* Запись на занятия, просмотр расписания, уведомления, личный кабинет.
-    -   *Админский бот:* Оперативное управление расписанием и быстрая связь с клиентами.
-2.  **Web-Admin Panel (Flask):**
-    -   Полноценное веб-приложение для владельца (CRM).
-    -   Управление базой клиентов, просмотр финансовых метрик, редактирование контента ботов.
-3.  **Landing Page (HTML/CSS):**
-    -   Сайт-визитка для привлечения внешнего трафика и SEO.
-4.  **Инфраструктура:**
-    -   Настройка VPS (Ubuntu) с нуля.
-    -   **Nginx** настроен как reverse-proxy для маршрутизации трафика между Flask-админкой, лендингом и вебхуками ботов.
-    -   Единая база данных PostgreSQL для всех компонентов системы.
+End-to-end business automation solution, running in production for over 1 year.
 
-### Travel World — Дневник путешествий
-**Стек:** Next.js 14, TypeScript, Tailwind CSS, shadcn/ui, Supabase (Auth + PostgreSQL + Storage), Gemini API, Vercel.
-**Что сделано:**
-- Интерактивная карта мира с подсветкой посещённых стран
-- CRUD поездок с датами, заметками, настроением
-- Фотоальбом с drag-and-drop загрузкой, автосжатием и signed URLs
-- ИИ-портрет путешественника (архетип, анализ, инсайты)
-- Email/password + Google OAuth аутентификация
-- PWA (установка на телефон)
+**Architecture & Features:**
+1. **Bot Ecosystem (Python / aiogram):**
+   - *Client Bot:* Class booking, schedule viewing, notifications, personal dashboard.
+   - *Admin Bot:* Real-time schedule management and direct client communication.
+2. **Web Admin Panel (Flask):**
+   - Full-featured web application serving as a CRM for the business owner.
+   - Client database management, financial metrics, bot content editing.
+3. **Landing Page (HTML/CSS):**
+   - Public-facing website for SEO and external traffic acquisition.
+4. **Infrastructure:**
+   - VPS (Ubuntu) configured from scratch.
+   - **Nginx** set up as a reverse proxy routing traffic between the Flask admin panel, landing page, and bot webhooks.
+   - Shared PostgreSQL database across all system components.
 
-**Ссылки:** Vercel (задеплоен), GitHub: github.com/anepom17/travel-world  
-**Время разработки:** 5 часов от нуля до продакшена
+### Travel World — Travel Journal
 
-### Telegram Bot — Парсер Yad2
-**Стек:** Python, Telegram Bot API, веб-скрапинг.
-**Что сделано:**
-- Парсинг объявлений квартир с Yad2 (Real Estate)
-- Фильтрация по сложным параметрам
-- Автоматическая отправка новых лотов в Telegram
+**Stack:** Next.js 14, TypeScript, Tailwind CSS, shadcn/ui, Supabase (Auth + PostgreSQL + Storage), Gemini API, Vercel
 
-### Автоматизация — Футбольная статистика
-**Стек:** n8n, REST API, HTML/JavaScript.
-**Что сделано:**
-- Workflow в n8n для получения данных из API футбольной статистики
-- Фильтрация и обработка данных
-- Вывод на статическую HTML-страницу
+**Features:**
+- Interactive world map highlighting visited countries
+- Full CRUD for trips with dates, notes, and mood tracking
+- Photo album with drag-and-drop upload, auto-compression, and signed URLs
+- AI-generated traveler portrait (archetype, analysis, insights)
+- Email/password + Google OAuth authentication
+- PWA support (installable on mobile)
+
+**Links:** Deployed on Vercel | GitHub: [github.com/anepom17/travel-world](https://github.com/anepom17/travel-world)  
+**Development time:** 5 hours from zero to production
+
+### Telegram Bot — Yad2 Parser
+
+**Stack:** Python, Telegram Bot API, web scraping
+
+**Features:**
+- Real estate listing parser for Yad2 (Israeli marketplace)
+- Advanced multi-parameter filtering
+- Automatic delivery of new listings to Telegram
+
+### Automation — Football Statistics
+
+**Stack:** n8n, REST API, HTML/JavaScript
+
+**Features:**
+- n8n workflow fetching data from a football statistics API
+- Data filtering and processing pipeline
+- Output rendered on a static HTML page
 
 ---
 
-## Учебные проекты (курс вайб-кодинга, Stepik, февраль 2026)
+## Learning Projects (Vibe Coding Course, Stepik, Feb 2026)
 
-- Лендинг-сайт (HTML/CSS/JS)
-- Игры Тетрис (несколько вариантов)
-- Travel World (описан выше — финальный проект курса)
+- Landing page (HTML/CSS/JS)
+- Tetris game (multiple variations)
+- Travel World (described above — final course project)
 
 ---
 
-## Образование и сертификаты
+## Education & Certificates
 
-| Год | Что | Платформа |
+| Year | Program | Platform |
 |---|---|---|
-| 2026 | Курс вайб-кодинга | Stepik |
+| 2026 | Vibe Coding Course | Stepik |
 | 2024 | Learn Python 3 — Certificate of Completion | Codecademy |
 
 ---
 
-## Основная карьера (не IT)
+## Professional Background
 
-**Product Manager** — International Company
-**2009 — настоящее время (17+ лет)** Путь от оператора данных до руководителя продукта. Навыки: анализ требований, координация команд, data-driven принятие решений, управление продуктом.
-
----
-
-## Что могу делать для заказчиков
-
-- **MVP и прототипы** — full-stack веб-приложение за 1-5 дней
-- **Complex Bot Systems** — связка "Бот + Web-админка + База данных"
-- **Лендинги и сайты** — адаптивные, современный дизайн
-- **AI-интеграции** — подключение LLM API (Gemini, OpenAI) в продукт
-- **Автоматизации** — n8n, API-интеграции, скрипты, веб-скрапинг
-- **DevOps** — Настройка VPS (Ubuntu), Nginx, CI/CD (GitHub Actions)
+**Product Manager** — International Company  
+**2009 – Present (17+ years)**  
+Career progression from data operator to product lead. Key competencies: requirements analysis, cross-team coordination, data-driven decision making, and product ownership.
 
 ---
 
-*Последнее обновление: февраль 2026*
+## Services
+
+- **MVPs & Prototypes** — full-stack web applications delivered in 1–5 days
+- **Complex Bot Systems** — bot + web admin panel + database, fully integrated
+- **Landing Pages & Websites** — responsive, modern design
+- **AI Integrations** — LLM API (Gemini, OpenAI) embedded into your product
+- **Automations** — n8n workflows, API integrations, scripts, web scraping
+- **DevOps** — VPS setup (Ubuntu), Nginx, CI/CD (GitHub Actions)
+
+---
+
+*Last updated: February 2026*
